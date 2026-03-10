@@ -59,7 +59,7 @@ int main()
 
 ## OUTPUT
 
-[Title](apicall.c)
+![Alt text](../img/img1.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
