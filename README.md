@@ -59,7 +59,7 @@ int main()
 
 ## OUTPUT
 
-![Alt text](../img/img1.png)
+![Alt text](img/img1.png)
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 
@@ -92,7 +92,7 @@ int main()
 
 ## OUTPUT
 
-![Alt text](../img/img2.png)
+![Alt text](img/img2.png)
 
 # RESULT:
 The programs are executed successfully.
